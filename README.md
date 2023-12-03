@@ -18,3 +18,4 @@ I just want to use multiple languages and have fun solving it. My goal for this 
 | :-: | :---------: | :----: | :---------------: |
 |  1  | Objective-C | ⭐️⭐️ | [Day 1](./day-1/) |
 |  2  |    Rust     | ⭐️⭐️ | [Day 2](./day-2/) |
+|  3  |     Go      | ⭐️⭐️ | [Day 3](./day-3/) |
