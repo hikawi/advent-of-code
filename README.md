@@ -14,9 +14,9 @@ I just want to use multiple languages and have fun solving it. My goal for this 
 
 ## Stars Collection
 
-| Day |  Language   | Stars  |     Solution      |
-| :-: | :---------: | :----: | :---------------: |
-|  1  | Objective-C | ⭐️⭐️ | [Day 1](./day-1/) |
-|  2  |    Rust     | ⭐️⭐️ | [Day 2](./day-2/) |
-|  3  |     Go      | ⭐️⭐️ | [Day 3](./day-3/) |
-|  4  |    Ruby     | ⭐️⭐️ | [Day 4](./day-4/) |
+| Day |  Language   | Stars  |     Solution      | Difficulty (Part 1) | Difficulty (Part 2) |
+| :-: | :---------: | :----: | :---------------: | :-----------------: | :-----------------: |
+|  1  | Objective-C | ⭐️⭐️ | [Day 1](./day-1/) |        2/10         |        7/10         |
+|  2  |    Rust     | ⭐️⭐️ | [Day 2](./day-2/) |        3/10         |        4/10         |
+|  3  |     Go      | ⭐️⭐️ | [Day 3](./day-3/) |        6/10         |        8/10         |
+|  4  |    Ruby     | ⭐️⭐️ | [Day 4](./day-4/) |        2/10         |        4/10         |
