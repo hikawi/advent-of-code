@@ -20,3 +20,4 @@ I just want to use multiple languages and have fun solving it. My goal for this 
 |  2  |    Rust     | ⭐️⭐️ | [Day 2](./day-2/) |        3/10         |        4/10         |
 |  3  |     Go      | ⭐️⭐️ | [Day 3](./day-3/) |        6/10         |        8/10         |
 |  4  |    Ruby     | ⭐️⭐️ | [Day 4](./day-4/) |        2/10         |        4/10         |
+|  5  | JavaScript  | ⭐️⭐️ | [Day 5](./day-5/) |        5/10         |        7/10         |

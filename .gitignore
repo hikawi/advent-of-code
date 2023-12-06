@@ -1,3 +1,7 @@
 *.out
 go.mod
-input.txt
+**/input.txt
+
+*.json
+*.log
+node_modules/
