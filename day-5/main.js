@@ -176,7 +176,8 @@ function solvePartTwo() {
     .flatMap(mapRangeFunc(waterToLight))
     .flatMap(mapRangeFunc(lightToTemperature))
     .flatMap(mapRangeFunc(temperatureToHumidity))
-    .flatMap(mapRangeFunc(humidityToLocation));
+    .flatMap(mapRangeFunc(humidityToLocation))
+    .filter((loc) => loc.start < loc.end); // Also filter empty ranges, start >= end means empty range.
 
   // Pick out the smallest location in each range returned.
   const lowestRange = locations.reduce((prev, cur) =>
