@@ -5,3 +5,4 @@ go.mod
 *.json
 *.log
 node_modules/
+.clj-kondo
