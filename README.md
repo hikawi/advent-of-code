@@ -24,3 +24,4 @@ I just want to use multiple languages and have fun solving it. My goal for this 
 |  6  |   Haskell   | ⭐️⭐️ | [Day 6](./day-6/) |        1/10         |        2/10         |
 |  7  |   Clojure   | ⭐️⭐️ | [Day 7](./day-7/) |        3/10         |        4/10         |
 |  8  |   Elixir    | ⭐️⭐️ | [Day 8](./day-8/) |        3/10         |        4/10         |
+|  9  |    Julia    | ⭐️⭐️ | [Day 9](./day-9/) |        1/10         |        1/10         |
