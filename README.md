@@ -29,3 +29,4 @@ By the way, the difficulty is how I feel. It's not a real metric. I'm just a beg
 |  9  |    Julia    | ⭐️⭐️ |  [Day 9](./day-9/)  |        1/10         |        1/10         |
 | 10  |    Swift    | ⭐️⭐️ | [Day 10](./day-10/) |        5/10         |        7/10         |
 | 11  |    Perl     | ⭐️⭐️ | [Day 11](./day-11/) |        4/10         |        5/10         |
+| 12  |     Lua     | ⭐️⭐️ | [Day 12](./day-12/) |        5/10         |        8/10         |
