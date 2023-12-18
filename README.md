@@ -31,3 +31,4 @@ By the way, the difficulty is how I feel. It's not a real metric. I'm just a beg
 | 11  |    Perl     | ⭐️⭐️ | [Day 11](./day-11/) |        4/10         |        5/10         |
 | 12  |     Lua     | ⭐️⭐️ | [Day 12](./day-12/) |        5/10         |        8/10         |
 | 13  | Dyalog APL  | ⭐️⭐️ | [Day 13](./day-13/) |        5/10         |        6/10         |
+| 14  |    Scala    | ⭐️⭐️ | [Day 14](./day-14/) |        5/10         |        8/10         |

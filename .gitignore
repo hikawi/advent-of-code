@@ -6,3 +6,6 @@ go.mod
 *.log
 node_modules/
 .clj-kondo
+.metals
+.lsp
+.vscode
