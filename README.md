@@ -8,11 +8,14 @@
 
 ## Description
 
-[Advent of Code](https://adventofcode.com) is an annual event where users are given a series of programming challenges to solve, all courtesy of [Eric Wastl](http://was.tl/).
+[Advent of Code](https://adventofcode.com) is an annual event where users are given a series of programming challenges to solve, all courtesy of [Eric Wastl](http://was.tl/). I just want to use multiple languages and have fun solving it. My goal for all years is `30`/50 stars.
 
-I just want to use multiple languages and have fun solving it. My goal for all years is `30`/50 stars.
+By the way, the difficulty is how I feel. It's not a real metric. I'm just a beginner programmer. How I consider it:
 
-By the way, the difficulty is how I feel. It's not a real metric. I'm just a beginner programmer.
+- Easy: simple and straightforward, usually brute-force with no optimization.
+- Medium: difficulties in parsing, solving, etc. Usually requires some optimization.
+- Hard: requires more knowledge, more optimization, and realizing the core of the problem. Usually a brute-force solution won't work.
+- Very Hard: requires some obscure algorithmic knowledge. I probably won't be able to do this.
 
 ## 2023 - Stars Collection
 
@@ -36,3 +39,40 @@ By the way, the difficulty is how I feel. It's not a real metric. I'm just a beg
 | 16  |    Java     | ⭐️⭐️ | [Day 16](./2023/day-16/) |        3/10         |        3/10         |
 
 Total Stars: 32⭐️ (**GOAL ACHIEVED! :D**)
+
+## 2015 - Stars Collection
+
+I want to solve everything in Dyalog APL in this year. The goal is also getting fluent, and becoming comfortable with how APL works.
+
+- Dyalog APL 18.2
+- Index Origin: 1
+
+| Day | Stars  |          Solution          | Difficulty (Part 1) | Difficulty (Part 2) | Notes |
+| :-: | :----: | :------------------------: | :-----------------: | :-----------------: | :---: |
+|  1  | ⭐️⭐️ |  [Day 1](./2015/day1.apl)  |        Easy         |        Easy         |       |
+|  2  | ⭐️⭐️ |  [Day 2](./2015/day2.apl)  |        Easy         |        Easy         |       |
+|  3  | ⭐️⭐️ |  [Day 3](./2015/day3.apl)  |       Medium        |       Medium        |       |
+|  4  | ⭐️⭐️ |  [Day 4](./2015/day4.py)   |        Easy         |        Easy         |  (1)  |
+|  5  | ⭐️⭐️ |  [Day 5](./2015/day5.apl)  |        Easy         |       Medium        |       |
+|  6  | ⭐️⭐️ |  [Day 6](./2015/day6.apl)  |        Easy         |        Easy         |       |
+|  7  | ⭐️⭐️ |  [Day 7](./2015/day7.apl)  |        Easy         |        Easy         |  (2)  |
+|  8  | ⭐️⭐️ |  [Day 8](./2015/day8.apl)  |        Easy         |        Easy         |       |
+|  9  | ⭐️⭐️ |  [Day 9](./2015/day9.apl)  |       Medium        |       Medium        |  (3)  |
+| 10  | ⭐️⭐️ | [Day 10](./2015/day10.apl) |        Easy         |        Easy         |       |
+| 11  | ⭐️⭐️ | [Day 11](./2015/day11.apl) |       Medium        |       Medium        |       |
+| 12  | ⭐️⭐️ | [Day 12](./2015/day12.apl) |        Easy         |       Medium        |  (4)  |
+| 13  | ⭐️⭐️ | [Day 13](./2015/day13.apl) |       Medium        |       Medium        |  (5)  |
+| 14  | ⭐️⭐️ | [Day 14](./2015/day14.apl) |        Easy         |       Medium        |       |
+| 15  | ⭐️⭐️ | [Day 15](./2015/day15.apl) |       Medium        |       Medium        |       |
+| 16  | ⭐️⭐️ | [Day 16](./2015/day16.apl) |        Easy         |        Easy         |       |
+| 17  | ⭐️⭐️ | [Day 17](./2015/day17.apl) |        Easy         |        Easy         |       |
+
+I brute-forced a lot, wow.
+
+**Notes**:
+
+1. Requires an MD5 implementation. I'm not doing that in APL.
+2. Removed the assignment line in the input file. Don't know if that's considered cheating or not.
+3. Learned that this is a version of TSP. Used brute-force.
+4. Part 2's code had a portion copied from [xpqz](https://xpqz.github.io/learnapl/io.html#reading-json-json).
+5. 9! permutations of TSP. Brute-forced.

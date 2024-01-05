@@ -1,6 +1,6 @@
 *.out
 go.mod
-**/input.txt
+**/*.txt
 
 *.json
 *.log
