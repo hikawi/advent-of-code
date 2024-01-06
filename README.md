@@ -66,6 +66,7 @@ I want to solve everything in Dyalog APL in this year. The goal is also getting 
 | 15  | ⭐️⭐️ | [Day 15](./2015/day15.apl) |       Medium        |       Medium        |       |
 | 16  | ⭐️⭐️ | [Day 16](./2015/day16.apl) |        Easy         |        Easy         |       |
 | 17  | ⭐️⭐️ | [Day 17](./2015/day17.apl) |        Easy         |        Easy         |       |
+| 18  | ⭐️⭐️ | [Day 18](./2015/day18.apl) |        Easy         |        Easy         |       |
 
 I brute-forced a lot, wow.
 
