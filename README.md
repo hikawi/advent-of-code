@@ -67,6 +67,9 @@ I want to solve everything in Dyalog APL in this year. The goal is also getting 
 | 16  | ⭐️⭐️ | [Day 16](./2015/day16.apl) |        Easy         |        Easy         |       |
 | 17  | ⭐️⭐️ | [Day 17](./2015/day17.apl) |        Easy         |        Easy         |       |
 | 18  | ⭐️⭐️ | [Day 18](./2015/day18.apl) |        Easy         |        Easy         |       |
+| 19  | ⭐️⭐️ | [Day 19](./2015/day19.apl) |       Medium        |        Hard         |  (6)  |
+| 20  | ⭐️⭐️ | [Day 20](./2015/day20.apl) |        Easy         |        Easy         |       |
+| 21  | ⭐️⭐️ | [Day 21](./2015/day21.apl) |        Easy         |        Easy         |       |
 
 I brute-forced a lot, wow.
 
@@ -77,3 +80,4 @@ I brute-forced a lot, wow.
 3. Learned that this is a version of TSP. Used brute-force.
 4. Part 2's code had a portion copied from [xpqz](https://xpqz.github.io/learnapl/io.html#reading-json-json).
 5. 9! permutations of TSP. Brute-forced.
+6. Read hints on Reddit for this day. (Still baffled how they notice that)
