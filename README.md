@@ -72,6 +72,7 @@ I want to solve everything in Dyalog APL in this year. The goal is also getting 
 | 21  | ⭐️⭐️ | [Day 21](./2015/day21.apl) |        Easy         |        Easy         |       |
 | 22  | ⭐️⭐️ | [Day 22](./2015/day22.apl) |        Hard         |        Hard         |       |
 | 23  | ⭐️⭐️ | [Day 23](./2015/day23.apl) |        Easy         |        Easy         |       |
+| 24  | ⭐️⭐️ | [Day 24](./2015/day24.apl) |       Medium        |       Medium        |  (7)  |
 
 I brute-forced a lot, wow.
 
@@ -83,3 +84,4 @@ I brute-forced a lot, wow.
 4. Part 2's code had a portion copied from [xpqz](https://xpqz.github.io/learnapl/io.html#reading-json-json).
 5. 9! permutations of TSP. Brute-forced.
 6. Read hints on Reddit for this day. (Still baffled how they notice that)
+7. This feels cheated because I only looked for the first group's presents. If there are any ways that with those first group presents, the rest _can't_ be divided evenly, this would be wrong.
