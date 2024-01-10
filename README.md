@@ -73,6 +73,7 @@ I want to solve everything in Dyalog APL in this year. The goal is also getting 
 | 22  | ⭐️⭐️ | [Day 22](./2015/day22.apl) |        Hard         |        Hard         |       |
 | 23  | ⭐️⭐️ | [Day 23](./2015/day23.apl) |        Easy         |        Easy         |       |
 | 24  | ⭐️⭐️ | [Day 24](./2015/day24.apl) |       Medium        |       Medium        |  (7)  |
+| 25  | ⭐️⭐️ | [Day 25](./2015/day25.apl) |        Easy         |        Easy         |       |
 
 I brute-forced a lot, wow.
 
