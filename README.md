@@ -40,8 +40,9 @@ For this year, I'd like to be able to use multiple languages to solve the proble
 | 15  |      C      | ⭐️⭐️ | [Day 15](./2023/day-15/) |        Easy         |        Easy         |
 | 16  |    Java     | ⭐️⭐️ | [Day 16](./2023/day-16/) |        Easy         |        Easy         |
 | 17  |   Python    | ⭐️⭐️ | [Day 17](./2023/day-17/) |        Hard         |        Hard         |
+| 18  |   Kotlin    | ⭐️⭐️ | [Day 18](./2023/day-18/) |       Medium        |        Hard         |
 
-Total Stars: 34⭐️ (**GOAL ACHIEVED! :D**)
+Total Stars: 36⭐️ (**GOAL ACHIEVED! :D**)
 
 ## 2015 - Stars Collection
 
