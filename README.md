@@ -41,6 +41,7 @@ For this year, I'd like to be able to use multiple languages to solve the proble
 | 16  |    Java     | ⭐️⭐️ | [Day 16](./2023/day-16/) |        Easy         |        Easy         |
 | 17  |   Python    | ⭐️⭐️ | [Day 17](./2023/day-17/) |        Hard         |        Hard         |
 | 18  |   Kotlin    | ⭐️⭐️ | [Day 18](./2023/day-18/) |       Medium        |        Hard         |
+| 19  | TypeScript  | ⭐️⭐️ | [Day 19](./2023/day-19/) |       Medium        |        Hard         |
 
 Total Stars: 36⭐️ (**GOAL ACHIEVED! :D**)
 
