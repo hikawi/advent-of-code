@@ -43,7 +43,17 @@ For this year, I'd like to be able to use multiple languages to solve the proble
 | 18  |   Kotlin    | ⭐️⭐️ | [Day 18](./2023/day-18/) |       Medium        |        Hard         |
 | 19  | TypeScript  | ⭐️⭐️ | [Day 19](./2023/day-19/) |       Medium        |        Hard         |
 
-Total Stars: 36⭐️ (**GOAL ACHIEVED! :D**)
+Total Stars: 38⭐️ (**GOAL ACHIEVED! :D**)
+
+## 2016 - Stars Collection
+
+Again, a new stack-oriented and array-oriented programming language, inspired by APL itself (Uiua). I want to solve everything with Uiua for this year.
+
+- Uiua 0.7.1
+
+| Day | Stars  |        Solution         | Difficulty (Part 1) | Difficulty (Part 2) | Notes |
+| :-: | :----: | :---------------------: | :-----------------: | :-----------------: | :---: |
+|  1  | ⭐️⭐️ | [Day 1](./2016/day1.ua) |        Easy         |        Easy         |       |
 
 ## 2015 - Stars Collection
 
