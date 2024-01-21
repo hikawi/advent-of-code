@@ -54,6 +54,7 @@ Again, a new stack-oriented and array-oriented programming language, inspired by
 | Day | Stars  |        Solution         | Difficulty (Part 1) | Difficulty (Part 2) | Notes |
 | :-: | :----: | :---------------------: | :-----------------: | :-----------------: | :---: |
 |  1  | ⭐️⭐️ | [Day 1](./2016/day1.ua) |        Easy         |        Easy         |       |
+|  2  | ⭐️⭐️ | [Day 2](./2016/day2.ua) |        Easy         |        Easy         |       |
 
 ## 2015 - Stars Collection
 
