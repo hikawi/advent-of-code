@@ -57,6 +57,11 @@ Again, a new stack-oriented and array-oriented programming language, inspired by
 |  2  | ⭐️⭐️ | [Day 2](./2016/day2.ua) |        Easy         |        Easy         |       |
 |  3  | ⭐️⭐️ | [Day 3](./2016/day3.ua) |        Easy         |        Easy         |       |
 |  4  | ⭐️⭐️ | [Day 4](./2016/day4.ua) |        Easy         |        Easy         |       |
+|  5  | ⭐️⭐️ | [Day 5](./2016/day5.py) |        Easy         |        Easy         |  (1)  |
+
+**Notes**:
+
+1. Why is there another MD5 man?
 
 ## 2015 - Stars Collection
 
