@@ -60,6 +60,7 @@ Again, a new stack-oriented and array-oriented programming language, inspired by
 |  5  | ⭐️⭐️ | [Day 5](./2016/day5.py) |        Easy         |        Easy         |  (1)  |
 |  6  | ⭐️⭐️ | [Day 6](./2016/day6.ua) |        Easy         |        Easy         |       |
 |  7  | ⭐️⭐️ | [Day 7](./2016/day7.ua) |       Medium        |       Medium        |       |
+|  8  | ⭐️⭐️ | [Day 8](./2016/day8.ua) |        Easy         |        Easy         |       |
 
 **Notes**:
 
