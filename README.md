@@ -16,6 +16,7 @@ By the way, the difficulty is how I feel. It's not a real metric. I'm just a beg
 - Medium: difficulties in parsing, solving, etc. Usually requires some optimization.
 - Hard: requires more knowledge, more optimization, and realizing the core of the problem. Usually a brute-force solution won't work.
 - Very Hard: requires some obscure algorithmic knowledge. I probably won't be able to do this.
+- Brutal: even if I know the solution, I probably can't even implement it.
 
 ## 2023 - Stars Collection
 
@@ -43,12 +44,14 @@ For this year, I'd like to be able to use multiple languages to solve the proble
 | 18  |   Kotlin    | ⭐️⭐️ | [Day 18](./2023/day-18/) |       Medium        |        Hard         |       |
 | 19  | TypeScript  | ⭐️⭐️ | [Day 19](./2023/day-19/) |       Medium        |        Hard         |       |
 | 20  |   Python    | ⭐️⭐️ | [Day 20](./2023/day-20/) |       Medium        |        Hard         |  (1)  |
+| 21  |   Python    | ⭐️⭐️ | [Day 21](./2023/day-21/) |       Medium        |      Very Hard      |  (2)  |
 
-Total Stars: 40⭐️ (**GOAL ACHIEVED! :D**)
+Total Stars: 42⭐️ (**GOAL ACHIEVED! :D**)
 
 **Notes**:
 
 1. I caved and used Python. I also looked up the key on Reddit, to learn that the input was crafted meticulously for a few assumptions to be true.
+2. I would not have even thought of parities. I tried to memoize, but it's infinite so not a lot can be memoized. I also tried to interpolate a quadratic solution, but that does not give enough precise answer (about 100k~ in difference, for the example, yielding about ~16100000 for the x=5000). I also tried to calibrate the quadratic solution, but nothing came up precise enough. Looked up hints and solutions on Reddit for this one.
 
 ## 2016 - Stars Collection
 
