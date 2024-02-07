@@ -66,6 +66,7 @@ At first, I want to do this in a new array-oriented language [Uiua](https://uiua
 | Day | Stars  |         Solution         | Difficulty (Part 1) | Difficulty (Part 2) | Notes |
 | :-: | :----: | :----------------------: | :-----------------: | :-----------------: | :---: |
 |  1  | ⭐️⭐️ | [Day 1](./2016/day1.apl) |        Easy         |        Easy         |       |
+|  2  | ⭐️⭐️ | [Day 2](./2016/day2.apl) |        Easy         |        Easy         |       |
 
 **Notes**:
 
