@@ -55,24 +55,21 @@ Total Stars: 42⭐️ (**GOAL ACHIEVED! :D**)
 
 ## 2016 - Stars Collection
 
-Again, a new stack-oriented and array-oriented programming language, inspired by APL itself (Uiua). I want to solve everything with Uiua for this year.
+> Using APL will expand and extend the range of mental models that you use to solve problems, but beware: once you are hooked on APL, there is a real risk that you will no longer accept the limitations of “traditional” programming languages.
+>
+> - Mastering Dyalog APL
 
-- Uiua 0.7.1
+Well, he's right. I'm addicted. I now reject the verbose stuff of C++. My brain only thinks in arrays now, I'm doomed. Same thing: dialect of **Dyalog APL** version **18.2**.
 
-| Day | Stars  |        Solution         | Difficulty (Part 1) | Difficulty (Part 2) | Notes |
-| :-: | :----: | :---------------------: | :-----------------: | :-----------------: | :---: |
-|  1  | ⭐️⭐️ | [Day 1](./2016/day1.ua) |        Easy         |        Easy         |       |
-|  2  | ⭐️⭐️ | [Day 2](./2016/day2.ua) |        Easy         |        Easy         |       |
-|  3  | ⭐️⭐️ | [Day 3](./2016/day3.ua) |        Easy         |        Easy         |       |
-|  4  | ⭐️⭐️ | [Day 4](./2016/day4.ua) |        Easy         |        Easy         |       |
-|  5  | ⭐️⭐️ | [Day 5](./2016/day5.py) |        Easy         |        Easy         |  (1)  |
-|  6  | ⭐️⭐️ | [Day 6](./2016/day6.ua) |        Easy         |        Easy         |       |
-|  7  | ⭐️⭐️ | [Day 7](./2016/day7.ua) |       Medium        |       Medium        |       |
-|  8  | ⭐️⭐️ | [Day 8](./2016/day8.ua) |        Easy         |        Easy         |       |
+At first, I want to do this in a new array-oriented language [Uiua](https://uiua.org), but it's being updated a lot, and it's not yet stable. So I'll wait until it is.
+
+| Day | Stars  |         Solution         | Difficulty (Part 1) | Difficulty (Part 2) | Notes |
+| :-: | :----: | :----------------------: | :-----------------: | :-----------------: | :---: |
+|  1  | ⭐️⭐️ | [Day 1](./2016/day1.apl) |        Easy         |        Easy         |       |
 
 **Notes**:
 
-1. Why is there another MD5 man?
+None yet.
 
 ## 2015 - Stars Collection
 
