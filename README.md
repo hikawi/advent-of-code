@@ -68,6 +68,7 @@ At first, I want to do this in a new array-oriented language [Uiua](https://uiua
 |  1  | ⭐️⭐️ | [Day 1](./2016/day1.apl) |        Easy         |        Easy         |       |
 |  2  | ⭐️⭐️ | [Day 2](./2016/day2.apl) |        Easy         |        Easy         |       |
 |  3  | ⭐️⭐️ | [Day 3](./2016/day3.apl) |        Easy         |        Easy         |       |
+|  4  | ⭐️⭐️ | [Day 4](./2016/day4.apl) |        Easy         |        Easy         |       |
 
 **Notes**:
 
