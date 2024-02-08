@@ -69,10 +69,12 @@ At first, I want to do this in a new array-oriented language [Uiua](https://uiua
 |  2  | ⭐️⭐️ | [Day 2](./2016/day2.apl) |        Easy         |        Easy         |       |
 |  3  | ⭐️⭐️ | [Day 3](./2016/day3.apl) |        Easy         |        Easy         |       |
 |  4  | ⭐️⭐️ | [Day 4](./2016/day4.apl) |        Easy         |        Easy         |       |
+|  5  | ⭐️⭐️ | [Day 5](./2016/day5.py)  |        Easy         |        Easy         |  (1)  |
+|  6  | ⭐️⭐️ | [Day 6](./2016/day6.apl) |        Easy         |        Easy         |       |
 
 **Notes**:
 
-None yet.
+1. MD5 implementation is required.
 
 ## 2015 - Stars Collection
 
