@@ -71,6 +71,7 @@ At first, I want to do this in a new array-oriented language [Uiua](https://uiua
 |  4  | ⭐️⭐️ | [Day 4](./2016/day4.apl) |        Easy         |        Easy         |       |
 |  5  | ⭐️⭐️ | [Day 5](./2016/day5.py)  |        Easy         |        Easy         |  (1)  |
 |  6  | ⭐️⭐️ | [Day 6](./2016/day6.apl) |        Easy         |        Easy         |       |
+|  7  | ⭐️⭐️ | [Day 7](./2016/day7.apl) |        Easy         |        Easy         |       |
 
 **Notes**:
 
