@@ -2,7 +2,7 @@
 
 # Advent of Code
 
-### My stupid solutions as I mess around with a compooter :)
+## My stupid solutions as I mess around with a compooter :)
 
 </div>
 
@@ -17,6 +17,18 @@ By the way, the difficulty is how I feel. It's not a real metric. I'm just a beg
 - Hard: requires more knowledge, more optimization, and realizing the core of the problem. Usually a brute-force solution won't work.
 - Very Hard: requires some obscure algorithmic knowledge. I probably won't be able to do this.
 - Brutal: even if I know the solution, I probably can't even implement it.
+
+## 2024 - Stars Collection
+
+Another year, another fun painful suffering of AoC problems. I wanted to do AoC in Uiua a while ago, but it wasn't very mature, a lot were being changed rapidly during development. This year, it seems more stable, more matured, and I forgot everything about it. Let's see how far I can take it. My goal, like all years is 30/50 stars, doesn't matter how many days.
+
+| Day | Language | Stars  |        Solution        | Difficulty (Prt 1) | Difficulty (Part 2) | Notes |
+| :-: | :------: | :----: | :--------------------: | :----------------: | :-----------------: | :---: |
+|  1  |   Uiua   | ⭐️⭐️ | [Day 1](./2024/day-1/) |        Easy        |       Medium        |  (a)  |
+
+Notes:
+
+- _(a)_: I'm not used to the language yet, the overall algorithm is simple, but the implementation for part 2 was problematic.
 
 ## 2023 - Stars Collection
 
