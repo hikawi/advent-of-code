@@ -22,10 +22,10 @@ By the way, the difficulty is how I feel. It's not a real metric. I'm just a beg
 
 Another year, another fun painful suffering of AoC problems. I wanted to do AoC in Uiua a while ago, but it wasn't very mature, a lot were being changed rapidly during development. This year, it seems more stable, more matured, and I forgot everything about it. Let's see how far I can take it. My goal, like all years is 30/50 stars, doesn't matter how many days.
 
-| Day | Language | Stars  |        Solution        | Difficulty (Prt 1) | Difficulty (Part 2) | Notes |
-| :-: | :------: | :----: | :--------------------: | :----------------: | :-----------------: | :---: |
-|  1  |   Uiua   | ⭐️⭐️ | [Day 1](./2024/day-1/) |        Easy        |       Medium        |  (a)  |
-|  2  |   Uiua   | ⭐️⭐️ | [Day 2](./2024/day-2/) |        Easy        |       Medium        |  (b)  |
+| Day |  Language   | Stars  |        Solution        | Difficulty (Prt 1) | Difficulty (Part 2) | Notes |
+| :-: | :---------: | :----: | :--------------------: | :----------------: | :-----------------: | :---: |
+|  1  | Uiua 0.13.0 | ⭐️⭐️ | [Day 1](./2024/day-1/) |        Easy        |       Medium        |  (a)  |
+|  2  | Uiua 0.13.0 | ⭐️⭐️ | [Day 2](./2024/day-2/) |        Easy        |       Medium        |  (b)  |
 
 Notes:
 

@@ -1,10 +1,12 @@
-Data ← ⊜□ ⊸≠@\n &fras "input.txt"
+Data ← ⬚@ ⊜∘⊸≠@\n &fras "input.txt"
+
+# Helper functions
+Parse  ← ⊜⋕⊸≠@ 
+Diff   ← ≡/-◫2
+IsSafe ← ×⊃(/××⊃(≤3|≥1)⌵|↥∩/×⊃<>0)
 
 # Part 1
-Diff   ← /-⍉◫2
-IsSafe ← ↧⊃(↥⊃(<0/↥|>0/↧)|=0⧻⊚=0↧⊃(≤3|≥1)⌵)
-/+≡(IsSafe Diff ⊜⋕ ◇⊸≠@ ) Data
+/+≡(IsSafe Diff Parse) Data
 
-# Part 2. Brute-force method, remove each element and then test against part 1
-RemoveOne ← ≡(▽°⊟⍉)⍉ ⊟⊙(↯[.⧻].) ⍜⊡(×0) ⍉⊟.⇡⊸⧻ ↯:1⊸[⊃⧻⧻]
-/+≡(/↥≡(IsSafe Diff) ◇RemoveOne ⊜⋕ ◇⊸≠@ ) Data
+# Part 2
+/+♭≡(/↥⊞(IsSafe Diff ⍜↻(↘1)) ⇡⊃⧻¤ Parse) Data
