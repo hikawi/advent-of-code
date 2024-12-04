@@ -27,12 +27,14 @@ Another year, another fun painful suffering of AoC problems. I wanted to do AoC 
 |  1  | Uiua 0.13.0 | ⭐️⭐️ | [Day 1](./2024/day-1/) |        Easy        |       Medium        |  (a)  |
 |  2  | Uiua 0.13.0 | ⭐️⭐️ | [Day 2](./2024/day-2/) |        Easy        |       Medium        |  (b)  |
 |  3  | Uiua 0.13.0 | ⭐️⭐️ | [Day 3](./2024/day-3/) |        Easy        |       Medium        |  (c)  |
+|  4  | Uiua 0.13.0 | ⭐️⭐️ | [Day 4](./2024/day-4/) |        Easy        |        Easy         |  (d)  |
 
 Notes:
 
 - _(a)_: I'm not used to the language yet, the overall algorithm is simple, but the implementation for part 2 was problematic.
 - _(b)_: I was really trying to do more optimized stuff like looking for anomalies, and try removing it, instead of doing a brute-force through all removals. Looking for anomalies is not that difficult, but how to deal with such anomalies proved to be massively difficult in Uiua as I'm still learning the language. My original solution is to check for anomalies and try to resolve by halving the difference and give it to its neighbors, unless it's start or end, then discard. I don't know if that will work.
 - _(c)_: At first I thought `do()` and `don't()` would alternate, and do a `1 0 1 0 1...` bit mask to keep what matrices to calculate instead. That was the bad answer. Then I realized multiple `do()` can chain each other. So I appended a `do()` in front of the text string, then parse normally, group each section, and only evaluate that section if it starts with `do()`.
+- _(d)_: It isn't hard, it's just optimizing it is quite difficult.
 
 ## 2023 - Stars Collection
 
