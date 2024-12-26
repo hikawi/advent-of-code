@@ -22,22 +22,15 @@ By the way, the difficulty is how I feel. It's not a real metric. I'm just a beg
 
 Another year, another fun painful suffering of AoC problems. I wanted to do AoC in Uiua a while ago, but it wasn't very mature, a lot were being changed rapidly during development. This year, it seems more stable, more matured, and I forgot everything about it. Let's see how far I can take it. My goal, like all years is 30/50 stars, doesn't matter how many days.
 
-| Day |  Language   | Stars  |        Solution        | Difficulty (Prt 1) | Difficulty (Part 2) | Notes |
-| :-: | :---------: | :----: | :--------------------: | :----------------: | :-----------------: | :---: |
-|  1  | Uiua 0.13.0 | ⭐️⭐️ | [Day 1](./2024/day-1/) |        Easy        |       Medium        |  (a)  |
-|  2  | Uiua 0.13.0 | ⭐️⭐️ | [Day 2](./2024/day-2/) |        Easy        |       Medium        |  (b)  |
-|  3  | Uiua 0.13.0 | ⭐️⭐️ | [Day 3](./2024/day-3/) |        Easy        |       Medium        |  (c)  |
-|  4  | Uiua 0.13.0 | ⭐️⭐️ | [Day 4](./2024/day-4/) |        Easy        |        Easy         |  (d)  |
-|  5  | Uiua 0.13.0 |  ⭐️   | [Day 5](./2024/day-5/) |        Easy        |                     |       |
-|  6  | Uiua 0.13.0 |        |          None          |                    |                     |       |
-|  7  | Uiua 0.13.0 |  ⭐️   | [Day 7](./2024/day-7/) |       Medium       |                     |       |
+| Day |  Language   | Stars  |       Solution        | Difficulty (Prt 1) | Difficulty (Part 2) | LoC | Notes |
+| :-: | :---------: | :----: | :-------------------: | :----------------: | :-----------------: | :-: | :---: |
+|  1  | Uiua 0.14.0 | ⭐️⭐️ | [Day 1](./2024/d1.ua) |        Easy        |        Easy         |  3  |       |
+|  2  | Uiua 0.14.0 | ⭐️⭐️ | [Day 2](./2024/d2.ua) |        Easy        |       Medium        |  4  |       |
+|  3  | Uiua 0.14.0 | ⭐️⭐️ | [Day 3](./2024/d3.ua) |        Easy        |       Medium        |  5  |  (a)  |
 
 Notes:
 
-- _(a)_: I'm not used to the language yet, the overall algorithm is simple, but the implementation for part 2 was problematic.
-- _(b)_: I was really trying to do more optimized stuff like looking for anomalies, and try removing it, instead of doing a brute-force through all removals. Looking for anomalies is not that difficult, but how to deal with such anomalies proved to be massively difficult in Uiua as I'm still learning the language. My original solution is to check for anomalies and try to resolve by halving the difference and give it to its neighbors, unless it's start or end, then discard. I don't know if that will work.
-- _(c)_: At first I thought `do()` and `don't()` would alternate, and do a `1 0 1 0 1...` bit mask to keep what matrices to calculate instead. That was the bad answer. Then I realized multiple `do()` can chain each other. So I appended a `do()` in front of the text string, then parse normally, group each section, and only evaluate that section if it starts with `do()`.
-- _(d)_: It isn't hard, it's just optimizing it is quite difficult.
+- _(a)_: Second part I thought `do()` and `don't()` would alternate. Bad assumption lol.
 
 ## 2023 - Stars Collection
 
