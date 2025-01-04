@@ -27,10 +27,13 @@ Another year, another fun painful suffering of AoC problems. I wanted to do AoC 
 |  1  | Uiua 0.14.0 | ⭐️⭐️ | [Day 1](./2024/d1.ua) |        Easy        |        Easy         |  3  |       |
 |  2  | Uiua 0.14.0 | ⭐️⭐️ | [Day 2](./2024/d2.ua) |        Easy        |       Medium        |  4  |       |
 |  3  | Uiua 0.14.0 | ⭐️⭐️ | [Day 3](./2024/d3.ua) |        Easy        |       Medium        |  5  |  (a)  |
+|  4  | Uiua 0.14.0 | ⭐️⭐️ | [Day 4](./2024/d4.ua) |       Medium       |        Easy         |  4  |       |
+|  5  | Uiua 0.14.1 | ⭐️⭐️ | [Day 5](./2024/d5.ua) |        Easy        |        Hard         | 10  |  (b)  |
 
 Notes:
 
 - _(a)_: Second part I thought `do()` and `don't()` would alternate. Bad assumption lol.
+- _(b)_: Uiua doesn't have a "sort-by-compare-function" function, so I implemented a rough Bubble Sort using under-select.
 
 ## 2023 - Stars Collection
 
