@@ -34,14 +34,16 @@ Another year, another fun painful suffering of AoC problems. I wanted to do AoC 
 |  8  | Uiua 0.14.1 | ⭐️⭐️ |  [Day 8](./2024/d8.ua)  |        Easy        |       Medium        |  9  |       |
 |  9  | Uiua 0.14.1 | ⭐️⭐️ |  [Day 9](./2024/d9.ua)  |        Easy        |        Easy         |  7  |       |
 | 10  | Uiua 0.14.1 | ⭐️⭐️ | [Day 10](./2024/d10.ua) |        Easy        |        Easy         | 10  |       |
+| 11  | Uiua 0.14.1 | ⭐️⭐️ | [Day 11](./2024/d11.ua) |        Easy        |       Medium        | 12  |  (d)  |
 
-Total so far: **19**/30
+Total so far: **21**/30
 
 Notes:
 
 - _(a)_: Second part I thought `do()` and `don't()` would alternate. Bad assumption lol.
 - _(b)_: Uiua doesn't have a "sort-by-compare-function" function, so I implemented a rough Bubble Sort using under-select.
 - _(c)_: I feel like I could implement this, but it gives a very wrong answer. A similar python implementation does give the correct answer, which is annoying.
+- _(d)_: Run this with `UIUA_RECURSION_LIMIT=1000 uiua run d11.ua`. Increase the limit if necessary.
 
 ## 2023 - Stars Collection
 
