@@ -29,11 +29,12 @@ Another year, another fun painful suffering of AoC problems. I wanted to do AoC 
 |  3  | Uiua 0.14.0 | ⭐️⭐️ | [Day 3](./2024/d3.ua) |        Easy        |       Medium        |  5  |  (a)  |
 |  4  | Uiua 0.14.0 | ⭐️⭐️ | [Day 4](./2024/d4.ua) |       Medium       |        Easy         |  4  |       |
 |  5  | Uiua 0.14.1 | ⭐️⭐️ | [Day 5](./2024/d5.ua) |        Easy        |        Hard         | 10  |  (b)  |
-|  6  | Uiua 0.14.1 | ️️️⭐  | [Day 6](./2024/d6.ua) |       Medium       |         ???         | 13  |  (c)  |
+|  6  | Uiua 0.14.1 | ️️️⭐  | [Day 6](./2024/d6.ua) |       Medium       |    What the fuck    | 13  |  (c)  |
 |  7  | Uiua 0.14.1 | ⭐️⭐️ | [Day 7](./2024/d7.ua) |        Easy        |        Easy         |  6  |       |
 |  8  | Uiua 0.14.1 | ⭐️⭐️ | [Day 8](./2024/d8.ua) |        Easy        |       Medium        |  9  |       |
+|  9  | Uiua 0.14.1 | ⭐️⭐️ | [Day 9](./2024/d9.ua) |        Easy        |        Easy         |  7  |       |
 
-Total so far: **13**/30
+Total so far: **17**/30
 
 Notes:
 
