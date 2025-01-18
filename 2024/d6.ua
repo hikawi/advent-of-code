@@ -14,7 +14,7 @@ Next ← :⟜+⊙(↘¯2⊸⊣)
 
 # Checks if a coord is out of bounds, it is if it throws an error trying to index into the data.
 # IsOutOfBounds ? Coord
-OOB ← ⍣(0◌⊡:Data)1
+OOB ← ↧⊓↧↧ ∩(⊃(≥0|<⧻Data)) °⊟
 
 # Checks if the next coord would step on an obstacle. This does not check for OOB situations.
 # CanStep Direction StepList Grid ? Direction StepList Grid
@@ -35,7 +35,6 @@ Looped ← :⊙(:⟜∊:) ⤙⊂ Next
 # Part 2. Simulate a new obstacle at every spot. Check if that will cause the guard goes in a loop.
 # Count how many spots that do that.
 # THIS DOESN'T WORK I HATE THIS
-
-# ◴♭₃ ⊞⍜⊡(@#◌) ⊙¤ ♭₂°⊡ Data
-# ≡spawn(⍣(1 ⋅⋅◌ ⍢(⨬(Turn|Step) CanStep|⨬(1|¬Looped) CanStep)|0) ¯1_0 StepList)
-# /+wait
+◴♭₃ ⊞⍜⊡(@#◌) ⊙¤ ♭₂°⊡ Data
+≡pool(⍣(1 ⋅⋅◌ ⍢(⨬(Turn|Step) CanStep|⨬(1|¬Looped) CanStep)|0) ¯1_0 StepList)
+/+wait
