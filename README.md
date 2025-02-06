@@ -22,21 +22,22 @@ By the way, the difficulty is how I feel. It's not a real metric. I'm just a beg
 
 Another year, another fun painful suffering of AoC problems. I wanted to do AoC in Uiua a while ago, but it wasn't very mature, a lot were being changed rapidly during development. This year, it seems more stable, more matured, and I forgot everything about it. Let's see how far I can take it. My goal, like all years is 30/50 stars, doesn't matter how many days.
 
-| Day |  Language   | Stars  |        Solution         | Difficulty (Prt 1) | Difficulty (Part 2) | LoC | Notes |
-| :-: | :---------: | :----: | :---------------------: | :----------------: | :-----------------: | :-: | :---: |
-|  1  | Uiua 0.14.0 | ⭐️⭐️ |  [Day 1](./2024/d1.ua)  |        Easy        |        Easy         |  3  |       |
-|  2  | Uiua 0.14.0 | ⭐️⭐️ |  [Day 2](./2024/d2.ua)  |        Easy        |       Medium        |  4  |       |
-|  3  | Uiua 0.14.0 | ⭐️⭐️ |  [Day 3](./2024/d3.ua)  |        Easy        |       Medium        |  5  |  (a)  |
-|  4  | Uiua 0.14.0 | ⭐️⭐️ |  [Day 4](./2024/d4.ua)  |       Medium       |        Easy         |  4  |       |
-|  5  | Uiua 0.14.1 | ⭐️⭐️ |  [Day 5](./2024/d5.ua)  |        Easy        |        Hard         | 10  |  (b)  |
-|  6  | Uiua 0.14.1 | ️️️⭐  |  [Day 6](./2024/d6.ua)  |       Medium       |        Hard         | 14  |       |
-|  7  | Uiua 0.14.1 | ⭐️⭐️ |  [Day 7](./2024/d7.ua)  |        Easy        |        Easy         |  6  |       |
-|  8  | Uiua 0.14.1 | ⭐️⭐️ |  [Day 8](./2024/d8.ua)  |        Easy        |       Medium        |  9  |       |
-|  9  | Uiua 0.14.1 | ⭐️⭐️ |  [Day 9](./2024/d9.ua)  |        Easy        |        Easy         |  7  |       |
-| 10  | Uiua 0.14.1 | ⭐️⭐️ | [Day 10](./2024/d10.ua) |        Easy        |        Easy         | 10  |       |
-| 11  | Uiua 0.14.1 | ⭐️⭐️ | [Day 11](./2024/d11.ua) |        Easy        |       Medium        | 12  |  (c)  |
+| Day |  Language   |  Stars  |        Solution         | Difficulty (Prt 1) | Difficulty (Part 2) | LoC | Notes |
+| :-: | :---------: | :-----: | :---------------------: | :----------------: | :-----------------: | :-: | :---: |
+|  1  | Uiua 0.14.0 | ⭐️⭐️  |  [Day 1](./2024/d1.ua)  |        Easy        |        Easy         |  3  |       |
+|  2  | Uiua 0.14.0 | ⭐️⭐️  |  [Day 2](./2024/d2.ua)  |        Easy        |       Medium        |  4  |       |
+|  3  | Uiua 0.14.0 | ⭐️⭐️  |  [Day 3](./2024/d3.ua)  |        Easy        |       Medium        |  5  |  (a)  |
+|  4  | Uiua 0.14.0 | ⭐️⭐️  |  [Day 4](./2024/d4.ua)  |       Medium       |        Easy         |  4  |       |
+|  5  | Uiua 0.14.1 | ⭐️⭐️  |  [Day 5](./2024/d5.ua)  |        Easy        |        Hard         | 10  |  (b)  |
+|  6  | Uiua 0.14.1 | ️️️⭐⭐ |  [Day 6](./2024/d6.ua)  |       Medium       |        Hard         | 14  |       |
+|  7  | Uiua 0.14.1 | ⭐️⭐️  |  [Day 7](./2024/d7.ua)  |        Easy        |        Easy         |  6  |       |
+|  8  | Uiua 0.14.1 | ⭐️⭐️  |  [Day 8](./2024/d8.ua)  |        Easy        |       Medium        |  9  |       |
+|  9  | Uiua 0.14.1 | ⭐️⭐️  |  [Day 9](./2024/d9.ua)  |        Easy        |        Easy         |  7  |       |
+| 10  | Uiua 0.14.1 | ⭐️⭐️  | [Day 10](./2024/d10.ua) |        Easy        |        Easy         | 10  |       |
+| 11  | Uiua 0.14.1 | ⭐️⭐️  | [Day 11](./2024/d11.ua) |        Easy        |       Medium        | 12  |  (c)  |
+| 12  | Uiua 0.14.1 | ⭐️⭐️  | [Day 12](./2024/d12.ua) |       Medium       |        Hard         | 14  |       |
 
-Total so far: **21**/30
+Total so far: **24**/30
 
 Notes:
 
