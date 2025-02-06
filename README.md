@@ -36,8 +36,9 @@ Another year, another fun painful suffering of AoC problems. I wanted to do AoC 
 | 10  | Uiua 0.14.1 | ⭐️⭐️  | [Day 10](./2024/d10.ua) |        Easy        |        Easy         | 10  |       |
 | 11  | Uiua 0.14.1 | ⭐️⭐️  | [Day 11](./2024/d11.ua) |        Easy        |       Medium        | 12  |  (c)  |
 | 12  | Uiua 0.14.1 | ⭐️⭐️  | [Day 12](./2024/d12.ua) |       Medium       |        Hard         | 14  |       |
+| 13  | Uiua 0.14.1 | ⭐️⭐️  | [Day 13](./2024/d13.ua) |        Easy        |       Medium        |  5  |       |
 
-Total so far: **24**/30
+Total so far: **26**/30
 
 Notes:
 
