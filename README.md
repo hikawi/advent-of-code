@@ -38,8 +38,9 @@ Another year, another fun painful suffering of AoC problems. I wanted to do AoC 
 | 12  | Uiua 0.14.1 | ⭐️⭐️  | [Day 12](./2024/d12.ua) |       Medium       |        Hard         | 14  |       |
 | 13  | Uiua 0.14.1 | ⭐️⭐️  | [Day 13](./2024/d13.ua) |        Easy        |       Medium        |  5  |       |
 | 14  | Uiua 0.14.1 | ⭐️⭐️  | [Day 14](./2024/d14.ua) |        Easy        |       Medium        |  6  |  (d)  |
+| 15  | Uiua 0.16.2 |   ⭐️   | [Day 15](./2024/d15.ua) |       Medium       |                     | 35  |  (e)  |
 
-Total so far: **26**/30
+Total so far: **29**/30
 
 Notes:
 
@@ -47,6 +48,7 @@ Notes:
 - _(b)_: Uiua doesn't have a "sort-by-compare-function" function, so I implemented a rough Bubble Sort using under-select.
 - _(c)_: Run this with `UIUA_RECURSION_LIMIT=1000 uiua run d11.ua`. Increase the limit if necessary. **Thank god for Uiua's memo**, I wouldn't know how to properly store a cache map and pass it around recursively in Uiua.
 - _(d)_: Part 2 requires you to find a pixel art of a tree within the grid at some point. I don't have any way to check it, so I checked whether there are any overlapping robots (if none, stop).
+- _(e)_: Part 2, I can't. I can't seem to figure out a simple way to map it out in a stack programming language.
 
 ## 2023 - Stars Collection
 
