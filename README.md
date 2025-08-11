@@ -41,8 +41,9 @@ Another year, another fun painful suffering of AoC problems. I wanted to do AoC 
 | 15  | Uiua 0.16.2 |   ⭐️   | [Day 15](./2024/d15.ua) |       Medium       |                     | 35  |  (e)  |
 | 16  | Uiua 0.16.2 | ⭐️⭐️  | [Day 16](./2024/d16.ua) |        Easy        |        Easy         |  9  |  (f)  |
 | 17  | Uiua 0.16.2 |   ⭐️   | [Day 17](./2024/d17.ua) |       Medium       |       Brutal        | 16  |       |
+| 18  | Uiua 0.16.2 | ⭐️⭐️  | [Day 18](./2024/d18.ua) |        Easy        |       Medium        |  7  |       |
 
-Total so far: **32**/30 (GOAL REACHED)
+Total so far: **34**/30 (GOAL REACHED)
 
 Notes:
 
