@@ -42,6 +42,7 @@ Another year, another fun painful suffering of AoC problems. I wanted to do AoC 
 | 16  | Uiua 0.16.2 | ⭐️⭐️  | [Day 16](./2024/d16.ua) |        Easy        |        Easy         |  9  |  (f)  |
 | 17  | Uiua 0.16.2 |   ⭐️   | [Day 17](./2024/d17.ua) |       Medium       |       Brutal        | 16  |       |
 | 18  | Uiua 0.16.2 | ⭐️⭐️  | [Day 18](./2024/d18.ua) |        Easy        |       Medium        |  7  |       |
+| 19  |  Uiua 0.17  | ⭐️⭐️  | [Day 19](./2024/d19.ua) |        Easy        |       Medium        |  8  |  (g)  |
 
 Total so far: **34**/30 (GOAL REACHED)
 
@@ -53,6 +54,7 @@ Notes:
 - _(d)_: Part 2 requires you to find a pixel art of a tree within the grid at some point. I don't have any way to check it, so I checked whether there are any overlapping robots (if none, stop).
 - _(e)_: Part 2, I can't. I can't seem to figure out a simple way to map it out in a stack programming language.
 - _(f)_: I abused Uiua's pathing system which returns **all** shortest paths instead of just one.
+- _(g)_: I had to increase UIUA_RECURSION_LIMIT to 1000, the 100 limit is not enough.
 
 ## 2023 - Stars Collection
 
