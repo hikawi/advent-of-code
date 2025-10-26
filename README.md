@@ -43,6 +43,7 @@ Another year, another fun painful suffering of AoC problems. I wanted to do AoC 
 | 17  | Uiua 0.16.2 |   ⭐️   | [Day 17](./2024/d17.ua) |       Medium       |       Brutal        | 16  |       |
 | 18  | Uiua 0.16.2 | ⭐️⭐️  | [Day 18](./2024/d18.ua) |        Easy        |       Medium        |  7  |       |
 | 19  |  Uiua 0.17  | ⭐️⭐️  | [Day 19](./2024/d19.ua) |        Easy        |       Medium        |  8  |  (g)  |
+| 22  | Uiua 0.17.2 | ⭐️⭐️  | [Day 22](./2024/d22.ua) |        Easy        |       Medium        | 11  |  (h)  |
 
 Total so far: **34**/30 (GOAL REACHED)
 
@@ -55,6 +56,7 @@ Notes:
 - _(e)_: Part 2, I can't. I can't seem to figure out a simple way to map it out in a stack programming language.
 - _(f)_: I abused Uiua's pathing system which returns **all** shortest paths instead of just one.
 - _(g)_: I had to increase UIUA_RECURSION_LIMIT to 1000, the 100 limit is not enough.
+- _(h)_: Extremely inefficient brute-force, but I went to sleep and got the correct answer.
 
 ## 2023 - Stars Collection
 
