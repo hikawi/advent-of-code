@@ -25,6 +25,13 @@ Freshing up my knowledge on stack-programming again.
 | Day |  Language   | Stars  |       Solution        | Difficulty (Prt 1) | Difficulty (Part 2) | LoC | Notes |
 | :-: | :---------: | :----: | :-------------------: | :----------------: | :-----------------: | :-: | :---: |
 |  1  | Uiua 0.17.2 | ⭐️⭐️ | [Day 1](./2025/d1.ua) |        Easy        |       Medium        |  7  |       |
+|  2  | Uiua 0.17.2 | ⭐️⭐️ | [Day 2](./2025/d2.ua) |        Easy        |        Easy         |  9  | (a))  |
+
+**Total**: 4/24 stars.
+
+Notes:
+
+- _(a)_: Brute-forced solution.
 
 ## 2024 - Stars Collection
 
