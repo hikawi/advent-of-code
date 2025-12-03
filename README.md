@@ -22,12 +22,13 @@ By the way, the difficulty is how I feel. It's not a real metric. I'm just a beg
 
 Freshing up my knowledge on stack-programming again.
 
-| Day |  Language   | Stars  |       Solution        | Difficulty (Prt 1) | Difficulty (Part 2) | LoC | Notes |
-| :-: | :---------: | :----: | :-------------------: | :----------------: | :-----------------: | :-: | :---: |
-|  1  | Uiua 0.17.2 | ⭐️⭐️ | [Day 1](./2025/d1.ua) |        Easy        |       Medium        |  7  |       |
-|  2  | Uiua 0.17.2 | ⭐️⭐️ | [Day 2](./2025/d2.ua) |        Easy        |        Easy         |  9  | (a))  |
+| Day |  Language   | Stars  |       Solution       | Difficulty (Prt 1) | Difficulty (Part 2) | LoC | Notes |
+| :-: | :---------: | :----: | :------------------: | :----------------: | :-----------------: | :-: | :---: |
+|  1  | Uiua 0.17.2 | ⭐️⭐️ | [Day 1](./2025/1.ua) |        Easy        |       Medium        |  7  |       |
+|  2  | Uiua 0.17.2 | ⭐️⭐️ | [Day 2](./2025/2.ua) |        Easy        |        Easy         |  9  |  (a)  |
+|  3  | Uiua 0.17.2 | ⭐️⭐️ | [Day 3](./2025/3.ua) |        Easy        |       Medium        |  6  |       |
 
-**Total**: 4/24 stars.
+**Total**: 6/24 stars.
 
 Notes:
 
