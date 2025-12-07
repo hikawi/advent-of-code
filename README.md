@@ -30,12 +30,14 @@ Freshing up my knowledge on stack-programming again.
 |  4  | Uiua 0.17.2 | ⭐️⭐️  | [Day 4](./2025/4.ua) |        Easy         |        Easy         |  6  |       |
 |  5  | Uiua 0.17.2 | ⭐️⭐️  | [Day 5](./2025/5.ua) |        Easy         |       Medium        |  8  |       |
 |  6  | Uiua 0.17.2 | ⭐️⭐️  | [Day 6](./2025/6.ua) |        Easy         |        Easy         |  4  |       |
+|  7  | Uiua 0.17.2 | ⭐️⭐️  | [Day 7](./2025/7.ua) |        Easy         |       Medium        | 12  |  (b)  |
 
-**Total**: 12/24 stars.
+**Total**: 14/24 stars.
 
 Notes:
 
 - _(a)_: Brute-forced solution.
+- _(b)_: Increase UIUA_RECURSION_LIMIT to 1000.
 
 ## 2024 - Stars Collection
 
