@@ -33,9 +33,10 @@ Freshing up my knowledge on stack-programming again.
 |  7  | Uiua 0.17.2 | ⭐️⭐️  |  [Day 7](./2025/7.ua)  |        Easy         |       Medium        | 12  |  (b)  |
 |  8  | Uiua 0.17.2 |  ⭐️   |  [Day 8](./2025/8.ua)  |       Medium        |                     |  9  |  (c)  |
 |  9  | Uiua 0.17.2 |  ⭐️   |  [Day 9](./2025/9.ua)  |       Medium        |                     |  3  |       |
-| 10  | Uiua 0.17.2 |  ⭐️   | [Day 10](./2025/10.ua) |       Medium        |                     | (d) |       |
+| 10  | Uiua 0.17.2 |  ⭐️   | [Day 10](./2025/10.ua) |       Medium        |                     |  5  |  (d)  |
+| 11  | Uiua 0.17.2 | ⭐️⭐️  | [Day 11](./2025/11.ua) |        Easy         |        Hard         |  6  |       |
 
-**Total**: 17/24 stars.
+**Total**: 19/24 stars.
 
 Notes:
 
