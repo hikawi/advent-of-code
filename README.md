@@ -22,24 +22,27 @@ By the way, the difficulty is how I feel. It's not a real metric. I'm just a beg
 
 Freshing up my knowledge on stack-programming again.
 
-| Day |  Language   | Stars |       Solution       | Difficulty (Part 1) | Difficulty (Part 2) | LoC | Notes |
-| :-: | :---------: | :---: | :------------------: | :-----------------: | :-----------------: | :-: | :---: |
-|  1  | Uiua 0.17.2 | ⭐️⭐️  | [Day 1](./2025/1.ua) |        Easy         |       Medium        |  7  |       |
-|  2  | Uiua 0.17.2 | ⭐️⭐️  | [Day 2](./2025/2.ua) |        Easy         |        Easy         |  9  |  (a)  |
-|  3  | Uiua 0.17.2 | ⭐️⭐️  | [Day 3](./2025/3.ua) |        Easy         |       Medium        |  6  |       |
-|  4  | Uiua 0.17.2 | ⭐️⭐️  | [Day 4](./2025/4.ua) |        Easy         |        Easy         |  6  |       |
-|  5  | Uiua 0.17.2 | ⭐️⭐️  | [Day 5](./2025/5.ua) |        Easy         |       Medium        |  8  |       |
-|  6  | Uiua 0.17.2 | ⭐️⭐️  | [Day 6](./2025/6.ua) |        Easy         |        Easy         |  4  |       |
-|  7  | Uiua 0.17.2 | ⭐️⭐️  | [Day 7](./2025/7.ua) |        Easy         |       Medium        | 12  |  (b)  |
-|  8  | Uiua 0.17.2 |  ⭐️   | [Day 8](./2025/8.ua) |       Medium        |                     |  9  |       |
-|  9  | Uiua 0.17.2 |  ⭐️   | [Day 9](./2025/9.ua) |       Medium        |                     |  3  |       |
+| Day |  Language   | Stars |        Solution        | Difficulty (Part 1) | Difficulty (Part 2) | LoC | Notes |
+| :-: | :---------: | :---: | :--------------------: | :-----------------: | :-----------------: | :-: | :---: |
+|  1  | Uiua 0.17.2 | ⭐️⭐️  |  [Day 1](./2025/1.ua)  |        Easy         |       Medium        |  7  |       |
+|  2  | Uiua 0.17.2 | ⭐️⭐️  |  [Day 2](./2025/2.ua)  |        Easy         |        Easy         |  9  |  (a)  |
+|  3  | Uiua 0.17.2 | ⭐️⭐️  |  [Day 3](./2025/3.ua)  |        Easy         |       Medium        |  6  |       |
+|  4  | Uiua 0.17.2 | ⭐️⭐️  |  [Day 4](./2025/4.ua)  |        Easy         |        Easy         |  6  |       |
+|  5  | Uiua 0.17.2 | ⭐️⭐️  |  [Day 5](./2025/5.ua)  |        Easy         |       Medium        |  8  |       |
+|  6  | Uiua 0.17.2 | ⭐️⭐️  |  [Day 6](./2025/6.ua)  |        Easy         |        Easy         |  4  |       |
+|  7  | Uiua 0.17.2 | ⭐️⭐️  |  [Day 7](./2025/7.ua)  |        Easy         |       Medium        | 12  |  (b)  |
+|  8  | Uiua 0.17.2 |  ⭐️   |  [Day 8](./2025/8.ua)  |       Medium        |                     |  9  |  (c)  |
+|  9  | Uiua 0.17.2 |  ⭐️   |  [Day 9](./2025/9.ua)  |       Medium        |                     |  3  |       |
+| 10  | Uiua 0.17.2 |  ⭐️   | [Day 10](./2025/10.ua) |       Medium        |                     | (d) |       |
 
-**Total**: 16/24 stars.
+**Total**: 17/24 stars.
 
 Notes:
 
 - _(a)_: Brute-forced solution.
 - _(b)_: Increase UIUA_RECURSION_LIMIT to 1000.
+- _(c)_: Used Python for Part 2. I couldn't do graph traversal in Uiua.
+- _(d)_: Used Python for Part 2. I couldn't do `scipy.optimize` in Uiua.
 
 ## 2024 - Stars Collection
 
