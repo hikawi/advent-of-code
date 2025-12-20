@@ -35,8 +35,9 @@ Freshing up my knowledge on stack-programming again on Uiua 1.17.2 and Dyalog AP
 |  9  | Uiua 0.17.2 |  ⭐️   |  [Day 9](./2025/9.ua)  |       Medium        |                     |  3  |       |
 | 10  | Uiua 0.17.2 |  ⭐️   | [Day 10](./2025/10.ua) |       Medium        |                     |  5  |  (d)  |
 | 11  | Uiua 0.17.2 | ⭐️⭐️  | [Day 11](./2025/11.ua) |        Easy         |        Hard         |  6  |       |
+| 12  | Uiua 0.17.2 |       |          N/A           |                     |                     |  0  |       |
 
-**Total**: 19/24 stars.
+**Total**: 19/24 stars done with Uiua, last 5 were done with Python (8p2, 9p2, 10p2, 12p1, 12p2).
 
 Notes:
 
