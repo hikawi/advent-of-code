@@ -20,7 +20,7 @@ By the way, the difficulty is how I feel. It's not a real metric. I'm just a beg
 
 ## 2025 - Stars Collection
 
-Freshing up my knowledge on stack-programming again.
+Freshing up my knowledge on stack-programming again on Uiua 1.17.2 and Dyalog APL 19.
 
 | Day |  Language   | Stars |        Solution        | Difficulty (Part 1) | Difficulty (Part 2) | LoC | Notes |
 | :-: | :---------: | :---: | :--------------------: | :-----------------: | :-----------------: | :-: | :---: |
